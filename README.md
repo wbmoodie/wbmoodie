@@ -1,4 +1,4 @@
-I've been developing, in assembly, fortran, C, C# and now Kotlin for more than 40 years.
+I've been developing code, in assembly, Fortran, C, Perl, C#, Java, Javascript and now Kotlin for more than 40 years.
 
 I've got an idea for an app that will literally change the world.
 
